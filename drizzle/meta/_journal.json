@@ -8,6 +8,13 @@
       "when": 1716321891544,
       "tag": "0000_opposite_sentinel",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1716355531486,
+      "tag": "0001_perpetual_tombstone",
+      "breakpoints": true
     }
   ]
 }
