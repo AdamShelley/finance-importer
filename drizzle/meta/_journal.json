@@ -15,6 +15,13 @@
       "when": 1716355531486,
       "tag": "0001_perpetual_tombstone",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1716719603032,
+      "tag": "0002_same_morlun",
+      "breakpoints": true
     }
   ]
 }
