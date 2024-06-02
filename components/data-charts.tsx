@@ -12,6 +12,7 @@ export const DataCharts = () => {
   return (
     <div className="grid">
       <h1>Data Charts</h1>
+      <p>this is the data chart comp</p>
     </div>
   );
 };
